@@ -1,1 +1,0 @@
-document.getElementsByTagName('iframe').contentWindow.document.oncontextmenu = function(){alert("No way!"); return false;}
