@@ -1,3 +1,3 @@
-document.frames.oncontextmenu = function(){
+document.oncontextmenu = function(){
     return false;
    };
