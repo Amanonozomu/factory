@@ -1,3 +1,3 @@
-window.frames.contentDocument.oncontextmenu = function(){
+document.frames.oncontextmenu = function(){
     return false;
    };
